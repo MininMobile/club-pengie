@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MininMobile/club-pengie/issues"
   },
-  "homepage": "https://github.com/MininMobile/club-pengie#readme"
+  "homepage": "https://github.com/MininMobile/club-pengie#readme",
+  "dependencies": {
+    "convergejs": "^3.6.8"
+  }
 }
